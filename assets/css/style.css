@@ -1,0 +1,60 @@
+body {
+	background-image: url("images/concrete-texture.png");
+	height: 100%;
+}
+/* rem==em */
+.container {
+	height: 100%;
+}
+
+a {
+	color: #777777;
+	text-decoration: none;
+}
+
+
+.navbar-toggle .icon-bar {
+    width: 30px;
+    height: 5px;
+}
+
+.navbar-header {
+	text-align: center;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.navbar-header span {
+    padding: 2px;
+    font-size: 1.0em;
+}
+/* rm=em */
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-default {
+    background-color: #4aaaa5;
+    border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+    font-size: 2.0em;
+    /* em is relative to screen probably  */
+    text-align: center;	
+    padding: 15px 50px;
+    float: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+
+/* index: */
+
+
+/* port */
+
+
+/* contct */
